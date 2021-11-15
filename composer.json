@@ -1,0 +1,8 @@
+{
+    "name": "mouadh/detectlanguage",
+    "description": "description",
+    "license": "MIT",
+    "require": {
+        "landrok/language-detector": "^1.3"
+    }
+}
