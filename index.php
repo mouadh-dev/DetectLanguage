@@ -9,10 +9,10 @@ for ($i=2;$i< count($argv);$i++){
 }
 
 $detector = new LanguageDetector\LanguageDetector();
-
+echo "hte language is ==>";
 echo $detector->evaluate($text);
 
-//echo "hte language is\n";
+
 //echo $detector->evaluate($text);
 
 
